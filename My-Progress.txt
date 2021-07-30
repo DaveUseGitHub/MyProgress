@@ -1,0 +1,10 @@
+-First Time Pengelolaan GitHub Secara Langsung-
+
+Nonton Tutorial dari WPU(Web Programming Unpas)
+
+Beberapa hal yang telah dipelajari diantaranya:
+1.Apa itu GitHub dan apa bedanya dengan Git
+2.Istilah-istilah di GitHub(Branch,Commit,Merge)
+3.Membuat private note pertama di GH
+
+Bismillah semangat belajar=Bismillah sukses!
